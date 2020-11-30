@@ -2,12 +2,16 @@
 
 ---
 
+📄 &nbsp; Resume -  [here](https://github.com/codetakeo)
+
+---
+
 #### Current Languages that I know
 <p>
   <img src="https://img.shields.io/badge/JavaScript-444444?logo=javascript&style=flat" />
   <img src="https://img.shields.io/badge/TypeScript-444444?logo=typescript&logoColor=009DFF&style=flat" />
   <img src="https://img.shields.io/badge/Java-444444?logo=java&logoColor=FF0000&style=flat" />
-  <img src="https://img.shields.io/badge/Bash-444444?logo=gnu-bash&logoColor=FFFFFF&style=flat" />
+  <img src="https://img.shields.io/badge/Bash-444444?logo=gnu-bash&logoColor=77DD77&style=flat" />
   <img src="https://img.shields.io/badge/Python-444444?logo=python&logoColor=007ACC&style=flat" />
   <img src="https://img.shields.io/badge/Kotlin-444444?logo=kotlin&logoColor=FFA500&style=flat" />
   <img src="https://img.shields.io/badge/C%23-444444?logo=c-sharp&logoColor=51D1F6&style=flat" />
@@ -27,6 +31,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetakeo&theme=dark&layout=compact" />
   </span>
 </div>
+
+---
 
 ### Top Repos & Contributions
 
