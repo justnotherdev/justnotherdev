@@ -2,7 +2,7 @@
 
 ---
 
-📄 &nbsp; Resume -  [here](https://github.com/codetakeo)
+📄 &nbsp; Resume -  [here](https://github.com/codetakeo/codetakeo/blob/main/resume_en.pdf)
 
 ---
 
