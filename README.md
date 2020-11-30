@@ -18,11 +18,7 @@
 ### Top Repos & Contributions
 
 ---
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codetakeo&repo=scd-cli&theme=dark&show_owner=true"/>
-</div>
-
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codetakeo&repo=scd-cli&theme=dark&show_owner=true)](https://github.com/codetakeo/scd-cli)
 
 
 <!--
