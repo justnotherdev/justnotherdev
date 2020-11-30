@@ -1,12 +1,12 @@
 ## Hi my name is Diego!, but I'm also known in tech & gaming as Takeo! ✌🏻💻
 
----
+
 
 📄 &nbsp; Resume -  [here](https://github.com/codetakeo/codetakeo/blob/main/resume_en.pdf)
 
----
 
-#### Current Languages that I know
+
+### Current Languages that I know
 <p>
   <img src="https://img.shields.io/badge/JavaScript-444444?logo=javascript&style=flat" />
   <img src="https://img.shields.io/badge/TypeScript-444444?logo=typescript&logoColor=009DFF&style=flat" />
@@ -18,10 +18,10 @@
 </p>
 
 
----
 
 
-#### Github Stats
+
+### Github Stats
 
 <div style="display: flex; justify-content: space-between; max-width: 400px; margin: 0 auto; background: #A0C5E8; padding: 10px 0;">
   <span style="width: 50px;height: 50px; background: black; ">
@@ -32,13 +32,13 @@
   </span>
 </div>
 
----
+
 
 ### Top Repos & Contributions
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codetakeo&repo=scd-cli&theme=dark&show_owner=true)](https://github.com/codetakeo/scd-cli)
 
----
+
 <!--
 **codetakeo/codetakeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
