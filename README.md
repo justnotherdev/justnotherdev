@@ -4,6 +4,7 @@
 
 ### Github Stats
 
+---
 
 <div style="display: flex; justify-content: space-between; max-width: 400px; margin: 0 auto; background: #A0C5E8; padding: 10px 0;">
   <span style="width: 50px;height: 50px; background: black; ">
@@ -13,6 +14,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetakeo&theme=dark&layout=compact" />
   </span>
 </div>
+
+### Top Repos & Contributions
+
+---
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codetakeo&repo=scd-cli&theme=dark&show_owner=true"/>
+</div>
+
+
 
 
 <!--
