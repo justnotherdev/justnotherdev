@@ -1,4 +1,4 @@
-## Hi my name is Diego!, but I'm also known in tech & gaming as Takeo! ✌🏻💻
+## Hi, my name is Diego! ✌🏻💻
 
 
 
@@ -25,7 +25,7 @@
 
 <div style="display: flex; justify-content: space-between; max-width: 400px; margin: 0 auto; background: #A0C5E8; padding: 10px 0;">
   <span style="width: 50px;height: 50px; background: black; ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codetakeo&theme=dark&custom_title=Takeo's+GitHub+Stats&show_icons=true&hide=prs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codetakeo&theme=dark&custom_title=Diego's+GitHub+Stats&show_icons=true&hide=prs" />
   </span>
   <span style="width: 50px;height: 50px; background: black; ">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetakeo&theme=dark&layout=compact" />
