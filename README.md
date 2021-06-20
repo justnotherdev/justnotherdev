@@ -2,7 +2,7 @@
 
 
 
-📄 &nbsp; Resume -  [here](https://github.com/codetakeo/codetakeo/blob/main/resume_en.pdf)
+📄 &nbsp; Resume -  [here](https://github.com/justnotherdev/justnotherdev/blob/main/resume_en.pdf)
 
 
 
@@ -25,10 +25,10 @@
 
 <div style="display: flex; justify-content: space-between; max-width: 400px; margin: 0 auto; background: #A0C5E8; padding: 10px 0;">
   <span style="width: 50px;height: 50px; background: black; ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codetakeo&theme=dark&custom_title=Diego's+GitHub+Stats&show_icons=true&hide=prs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=justnotherdev&theme=dark&custom_title=Diego's+GitHub+Stats&show_icons=true&hide=prs" />
   </span>
   <span style="width: 50px;height: 50px; background: black; ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetakeo&theme=dark&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justnotherdev&theme=dark&layout=compact" />
   </span>
 </div>
 
