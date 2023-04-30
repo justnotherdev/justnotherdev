@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/JavaScript-444444?logo=javascript&style=flat" />
   <img src="https://img.shields.io/badge/TypeScript-444444?logo=typescript&logoColor=009DFF&style=flat" />
   <img src="https://img.shields.io/badge/Java-444444?logo=java&logoColor=FF0000&style=flat" />
+  <img src="https://img.shields.io/badge/Dart-444444?logo=dart&logoColor=247AFD&style=flat" />
   <img src="https://img.shields.io/badge/Bash-444444?logo=gnu-bash&logoColor=77DD77&style=flat" />
   <img src="https://img.shields.io/badge/Python-444444?logo=python&logoColor=007ACC&style=flat" />
   <img src="https://img.shields.io/badge/Kotlin-444444?logo=kotlin&logoColor=FFA500&style=flat" />
