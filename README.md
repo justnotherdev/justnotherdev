@@ -56,9 +56,17 @@
 <p>  
   <img src="https://img.shields.io/badge/Python-444444?logo=python&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kotlin-444444?logo=kotlin&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.JS-444444?logo=node.js&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-444444?logo=react&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android-444444?logo=android&style=for-the-badge" />
   <img src="https://img.shields.io/badge/iOS-444444?logo=ios&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Firebase-444444?logo=firebase&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-444444?logo=amazon-aws&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAP BTP-444444?logo=sap&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-444444?logo=docker&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jenkins-444444?logo=jenkins&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache Maven-444444?logo=apache-maven&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Selenium-444444?logo=selenium&style=for-the-badge" />
 </p>
 
 
