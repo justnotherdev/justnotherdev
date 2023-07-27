@@ -10,19 +10,19 @@
 
 ## 🧑🏻‍💻 Main SkillSet
 
-<a href="https://eslint.org">
+<a href="https://kubernetes.io">
   <img  width="50" title="Kubernetes" alt="Kubernetes Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/kubernetes-logo.svg">
 </a> &#xa0; &#xa0;
 
-<a href="https://jestjs.io">
-  <img width="50" title="GNU Bash" alt="GNU Bash Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/gnu-bash-logo.svg">
+<a href="https://www.gnu.org/software/bash/">
+  <img width="50" title="Bash" alt="Bash Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/bash-logo.svg">
 </a> &#xa0; &#xa0;
 
-<a href="https://prettier.io">
+<a href="https://angularjs.org">
   <img width="50" title="AngularJS" alt="AngularJS Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/angularjs-logo.svg">
 </a> &#xa0; &#xa0;
   
-<a href="https://nextjs.org">
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
   <img width="50" title="Javascript" alt="Javascript Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/javascript-logo.svg">
 </a> &#xa0; &#xa0;
 
@@ -30,7 +30,7 @@
   <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/typescript-logo.svg">
 </a> &#xa0; &#xa0;
 
-<a href="https://styled-components.com">
+<a href="https://www.java.com">
   <img width="50" title="Java" alt="Java Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/java-logo.svg">
 </a> &#xa0; &#xa0;
 
@@ -42,7 +42,7 @@
 
 
 
-### 🛠️ Have also work with the following stuff
+### 🛠️ Have also worked with the following stuff
 
 <p>  
   <img src="https://img.shields.io/badge/Dart-444444?logo=dart&logoColor=247AFD&style=flat" />
