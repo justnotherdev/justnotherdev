@@ -8,7 +8,7 @@
 📇 &nbsp; 2023 Updated Resume -  [here](https://github.com/justnotherdev/justnotherdev/blob/main/resume.pdf)
 
 
-## 🧑🏻‍💻 Main SkillSet
+## 🧑🏻‍💻 Main Skillset
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
   <img width="45" title="Javascript" alt="Javascript Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/javascript-logo.svg">
