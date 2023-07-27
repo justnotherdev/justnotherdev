@@ -13,7 +13,7 @@
 - ✨ Coding since 2017
 - 🌱 Currently learning French 🇫🇷 and Japanese 🇯🇵
 - 📚 Training my DevOps and automation skills
-- 🎯 Looking forward to moving to Canada or US and working on Big Tech Projects 🚀
+- 🎯 Looking forward to moving to Canada or USA and working on Big Tech Projects 🚀
 - 🎲 Rider 🏍️ and Geek 🧙🏻‍♂️
 
 
