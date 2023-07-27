@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile?style=flat&logo=instagram&color=0e76a8&logoColor=white)](https://www.linkedin.com/in/justanotherdev/)
  
 
-📇 &nbsp; 2023 Updated Resume -  [here](https://github.com/justnotherdev/justnotherdev/blob/main/resume_en.pdf)
+📇 &nbsp; 2023 Updated Resume -  [here](https://github.com/justnotherdev/justnotherdev/blob/main/resume.pdf)
 
 
 ## 🧑🏻‍💻 Main SkillSet
