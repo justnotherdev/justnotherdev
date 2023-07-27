@@ -23,7 +23,7 @@
 </a> &#xa0; &#xa0;
   
 <a href="https://nextjs.org">
-  <img width="50" title="Javascript" alt="Javascript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/javascript-logo.svg">
+  <img width="50" title="Javascript" alt="Javascript Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/javascript-logo.svg">
 </a> &#xa0; &#xa0;
 
 <a href="https://www.typescriptlang.org">
