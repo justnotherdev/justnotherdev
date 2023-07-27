@@ -55,7 +55,9 @@
 
 ### &nbsp; 🗃️ Certifications  
 
-- Amazon Web Services Cloud Practitioner
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 
 ---
 
