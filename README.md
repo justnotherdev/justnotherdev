@@ -10,18 +10,6 @@
 
 ## 🧑🏻‍💻 Main SkillSet
 
-<a href="https://kubernetes.io">
-  <img  width="50" title="Kubernetes" alt="Kubernetes Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/kubernetes-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.gnu.org/software/bash/">
-  <img width="50" title="Bash" alt="Bash Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/bash-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://angularjs.org">
-  <img width="50" title="AngularJS" alt="AngularJS Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/angularjs-logo.svg">
-</a> &#xa0; &#xa0;
-  
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
   <img width="50" title="Javascript" alt="Javascript Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/javascript-logo.svg">
 </a> &#xa0; &#xa0;
@@ -33,6 +21,23 @@
 <a href="https://www.java.com">
   <img width="50" title="Java" alt="Java Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/java-logo.svg">
 </a> &#xa0; &#xa0;
+
+<a href="https://www.gnu.org/software/bash/">
+  <img width="50" title="Bash" alt="Bash Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/bash-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://angularjs.org">
+  <img width="50" title="AngularJS" alt="AngularJS Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/angularjs-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://flutter.dev">
+  <img width="50" title="Flutter" alt="Flutter Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/flutter-logo.svg">
+</a> &#xa0; &#xa0;
+  
+<a href="https://kubernetes.io">
+  <img  width="50" title="Kubernetes" alt="Kubernetes Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/kubernetes-logo.svg">
+</a> &#xa0; &#xa0;
+
 
 
 
