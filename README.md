@@ -11,11 +11,11 @@
 ## 🧑🏻‍💻 Main SkillSet
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-  <img width="50" title="Javascript" alt="Javascript Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/javascript-logo.svg">
+  <img width="45" title="Javascript" alt="Javascript Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/javascript-logo.svg">
 </a> &#xa0; &#xa0;
 
 <a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/typescript-logo.svg">
+  <img width="45" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/typescript-logo.svg">
 </a> &#xa0; &#xa0;
 
 <a href="https://www.java.com">
