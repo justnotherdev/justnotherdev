@@ -51,13 +51,14 @@
 
 
 
-### 🛠️ Have also worked with the following stuff
+## 🛠️ Have also worked with the following stuff
 
 <p>  
-  <img src="https://img.shields.io/badge/Dart-444444?logo=dart&logoColor=247AFD&style=flat" />
-  <img src="https://img.shields.io/badge/Python-444444?logo=python&logoColor=007ACC&style=flat" />
-  <img src="https://img.shields.io/badge/Kotlin-444444?logo=kotlin&logoColor=FFA500&style=flat" />
-  <img src="https://img.shields.io/badge/C%23-444444?logo=c-sharp&logoColor=51D1F6&style=flat" />
+  <img src="https://img.shields.io/badge/Python-444444?logo=python&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kotlin-444444?logo=kotlin&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android-444444?logo=android&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/iOS-444444?logo=ios&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-444444?logo=firebase&style=for-the-badge" />
 </p>
 
 
