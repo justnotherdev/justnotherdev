@@ -15,7 +15,7 @@
 </a> &#xa0; &#xa0;
 
 <a href="https://jestjs.io">
-  <img width="50" title="Bash" alt="Bash Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/bash-logo.svg">
+  <img width="50" title="GNU Bash" alt="GNU Bash Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/gnu-bash-logo.svg">
 </a> &#xa0; &#xa0;
 
 <a href="https://prettier.io">
