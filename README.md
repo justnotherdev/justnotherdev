@@ -1,4 +1,4 @@
-# Hello there, I'm Sebastian! ✌🏻💻
+# Hello there, I'm Sebastian! ✌🏻
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile?style=flat&logo=instagram&color=E1306C&logoColor=white)](https://www.instagram.com/justnotherdev)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Profile?style=flat&logo=instagram&color=F80000&logoColor=white)](https://www.youtube.com/channel/UC9bBsYILkNzEDXy7Tj3ixJg)
@@ -8,7 +8,16 @@
 📇 &nbsp; 2023 Updated Resume -  [here](https://github.com/justnotherdev/justnotherdev/blob/main/resume.pdf)
 
 
-## 🧑🏻‍💻 Main Skillset
+## 🧑🏻‍💻 &nbsp; About me
+
+- ✨ Coding since 2017
+- 🌱 Currently learning French 🇫🇷 and Japanese 🇯🇵
+- 📚 Training my DevOps and automation skills
+- 🎯 Looking forward to move to Canada or US and work in Big Tech Projects 🚀
+- 🎲 Rider 🏍️ and Geek 🧙🏻‍♂️
+
+
+## 🧰 &nbsp; Main Skillset
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
   <img width="45" title="Javascript" alt="Javascript Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/javascript-logo.svg">
@@ -42,16 +51,15 @@
   <img  width="50" title="Kubernetes" alt="Kubernetes Logo" src="https://raw.githubusercontent.com/justnotherdev/justnotherdev/master/assets/kubernetes-logo.svg">
 </a> &#xa0; &#xa0;
 
+---
 
-
-
-## 🗃️ Achieved Certifications  
+### &nbsp; 🗃️ Certifications  
 
 - Amazon Web Services Cloud Practitioner
 
+---
 
-
-## 🛠️ Have also worked with the following stuff
+### &nbsp; 🛠️ Have also worked with the following stuff
 
 <p>  
   <img src="https://img.shields.io/badge/Python-444444?logo=python&style=for-the-badge" />
