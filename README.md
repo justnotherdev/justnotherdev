@@ -16,7 +16,7 @@
 - 🌱 Currently learning French 🇫🇷 and Japanese 🇯🇵
 - 📚 Training my DevOps and automation skills (Strongly believe in Developer Experience)
 - 🎯 Looking forward to moving to Canada and working on Big Tech Projects 🚀
-- 🎲 Rider 🏍️ and Geek 🧙🏻‍♂️
+- 🎲 Geek 🧙🏻‍♂️ and Rider 🏍️ 
 
 
 ## 🧰 &nbsp; Main Skillset
