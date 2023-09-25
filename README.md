@@ -1,9 +1,9 @@
 # Hello there, I'm Sebastian! ✌🏻
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile?style=flat&logo=instagram&color=E1306C&logoColor=white)](https://www.instagram.com/justnotherdev)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Profile?style=flat&logo=youtube&color=F80000&logoColor=white)](https://www.youtube.com/channel/UC9bBsYILkNzEDXy7Tj3ixJg)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile?style=flat&logo=linkedin&color=0e76a8&logoColor=white)](https://www.linkedin.com/in/justanotherdev/)
 [![Website Badge](https://img.shields.io/badge/Website-Profile?style=flat&logo=webpack&color=444444&logoColor=white)](https://www.justanotherdev.com)
+<!--[![YouTube Badge](https://img.shields.io/badge/YouTube-Profile?style=flat&logo=youtube&color=F80000&logoColor=white)](https://www.youtube.com/channel/UC9bBsYILkNzEDXy7Tj3ixJg)-->
  
  
 
